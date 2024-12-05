@@ -7,3 +7,7 @@ networks:
   backend:
     # Use a custom driver
     driver: custom-driver
+
+o problema de criar diretorios
+por causa dos volumes estarem mal definidos
+
